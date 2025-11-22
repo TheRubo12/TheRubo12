@@ -73,7 +73,7 @@ Todos con repos dedicados y metodología profesional.
 
 ## 📫 Conecta conmigo
 <p>
-  <a href="https://www.linkedin.com/in/rubenvicentegilabert/" target="_blank">
+  <a href="https://www.linkedin.com/in/rubovicente/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rubén%20Vicente-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
